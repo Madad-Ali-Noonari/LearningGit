@@ -1,0 +1,29 @@
+h1.heading{
+    font-size: 5em;
+    background-color: #fec107;
+    color: rebeccapurple;
+    text-align: center;
+    border-radius: 10px ;
+}
+ul, li{
+    display: inline;
+    margin: 15px;
+    text-align: right;
+}
+a{
+    text-align: right;
+    padding: 8px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    color: white;
+}
+.footer{
+height: 100px;
+width: 1200px;
+background-color: burlywood;
+color: rebeccapurple;
+text-align: center;
+border-radius: 10px;
+
+}

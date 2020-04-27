@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+.register{
+    background-color: royalblue;
+    width: 500px;
+    margin: 0px 0px 0px 430px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+}
+#register{
+    margin-left: 50px;
+}
+label{
+    font-family: sans-serif;
+
+}
+#name{
+    width: 300px;
+    height:;
+    border: none;
+    padding: 7px;
+    outline: 0;
+    border-radius: 5px;
+}
+#ph{
+    width: 65px;
+    border: none;
+    outline: 0;
+    padding: 7px;
+    border-radius: 5px;
+
+}
+#num{
+    width: 230px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    outline: 0;
+}
+#submit{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 600px;
+    border: none;
+    border-radius: 5px;
+}
